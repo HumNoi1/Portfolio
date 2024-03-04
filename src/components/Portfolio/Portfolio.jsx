@@ -1,6 +1,5 @@
 import React from 'react'
 import styles from './Portfolio.module.css'
-import img1 from '../Photo/IMG_6326.jpg'
 
 function Portfolio() {
   return (
@@ -8,11 +7,11 @@ function Portfolio() {
       <h3 className={styles.port_title}>Portfolio</h3>
       <div className={styles.port_list}>
         <div className={styles.port_items}>
-            <img src="" alt="" />
+            <img src="src/components/Photo/IMG_6326.jpg" alt="" />
             <p>Project Title</p>
         </div>
         <div className={styles.port_items}>
-            <img src="../src/components/Photo/IMG_6326.jpg" alt="" />
+            <img src="" alt="" />
             <p>Project Title</p>
         </div>
         <div className={styles.port_items}>
