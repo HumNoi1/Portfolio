@@ -1,5 +1,6 @@
 import React from 'react'
 import styles from './Portfolio.module.css'
+import img1 from '../Photo/IMG_6326.jpg'
 
 function Portfolio() {
   return (
