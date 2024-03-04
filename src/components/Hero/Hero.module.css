@@ -38,6 +38,7 @@
           & svg {
             width: 32px;
             height: 32px;
+            color: #f0e68c;
           }
         }
       }
@@ -46,7 +47,7 @@
         width: 300px;
         height: 300px;
         border-radius: 100%;
-        background-image: url("https://plus.unsplash.com/premium_photo-1675188410128-08479b027489?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2F0fGVufDB8fDB8fHww");
+        background-image: url("https://i.pinimg.com/564x/8b/10/a5/8b10a558e6ce6b55ad1e860eae7ccd83.jpg");
         background-size: cover;
         background-position: center;
         margin-right: 120px;

@@ -1,10 +1,10 @@
 nav {
-    background-color: #8d38c9;
+    background-color: #f0e68c;
     overflow: hidden;
     position: relative;
   
     & a {
-      color: white;
+      color: black;
     }
   
     .bars {
@@ -62,7 +62,7 @@ nav {
   
         a {
           text-decoration: none;
-          color: #8d38c9;
+          color: black;
           font-weight: bold;
         }
       }

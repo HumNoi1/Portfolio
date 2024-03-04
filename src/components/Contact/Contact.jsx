@@ -20,25 +20,25 @@ function Contact() {
                     Little Whinging, Surrey
                     </address>
                 </p>
-                <p><MdAlternateEmail/>Byte-Slinger-Dhamma@btc.info</p>
-                <p><SiWhatsapp/>Byte-Slinger-Dhamma</p>
+                <p><MdAlternateEmail/>framegg908@gmail.com</p>
+                <p><SiWhatsapp/>0918018909</p>
             </div>
             <div className={styles.contact_form}>
                 <form action="">
                     <div className={styles.input_group}>
                         <div>
                             <label htmlFor="first name">First Name</label>
-                            <input type="text" placeholder="eg. Somchai"></input>
+                            <input type="text" placeholder="Thanawat"></input>
                         </div>
                         <div>
                             <label htmlFor="last name">Last Name</label>
-                            <input type="text" placeholder="eg. Jaidee"></input>
+                            <input type="text" placeholder="Kanphuton"></input>
                         </div>
                     </div>
                     <label htmlFor="email address">Email Address</label>
-                    <input type="email" placeholder="eg. asdfsa@dddd.com" />
+                    <input type="email" placeholder="framegg908@gmail.com" />
                     <label htmlFor="message">Your message</label>
-                    <textarea name="" id="" cols="30" rows="10" placeholder="Type here"></textarea>
+                    <textarea name="" id="" cols="30" rows="10" placeholder="Hellooooooooooooooooooooooo"></textarea>
                     <button type='submit'>Submit</button>
                 </form>
             </div>

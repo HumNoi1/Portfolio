@@ -12,7 +12,7 @@ function Hero() {
         <div className={styles.hero_content}>
           <div className={styles.hero_info}>
             <p className={styles.text_1}>Greetings, tech enthusiast!</p>
-            <h3 className={styles.text_2}>Byte Slinger Dhamma</h3>
+            <h3 className={styles.text_2}>Thanawat Kanphuton</h3>
             <p className={styles.text_3}>
               <span>I am a </span>
               <TypeAnimation
@@ -33,17 +33,17 @@ function Hero() {
             </p>
             <ul className={styles.hero_social}>
               <li>
-                <a href="">
+                <a href="https://github.com/HumNoi1">
                   <FaGithub />
                 </a>
               </li>
               <li>
-                <a href="">
+                <a href="https://www.linkedin.com/in/humnoi-1-967310294/">
                   <FaLinkedinIn />
                 </a>
               </li>
               <li>
-                <a href="">
+                <a href="https://www.facebook.com/profile.php?id=100008084763041">
                   <FaFacebookF />
                 </a>
               </li>

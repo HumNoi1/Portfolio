@@ -1,8 +1,8 @@
 .skills_container {
   height: 300px;
-  background-color: #8d38c9;
+  background-color: #f0e68c;
   text-align: center;
-  color: white;
+  color: black;
   overflow: hidden;
 
   & .skills_title {
