@@ -7,7 +7,7 @@ function Portfolio() {
       <h3 className={styles.port_title}>Portfolio</h3>
       <div className={styles.port_list}>
         <div className={styles.port_items}>
-            <img src="https://i.pinimg.com/564x/46/28/82/462882194c8e5aa97c14d20e57aa22a9.jpg" alt="" />
+            <img src="src/components/Photos/Screenshot 2024-03-11 192851.png" alt="" />
             <p></p>
         </div>
         <div className={styles.port_items}>

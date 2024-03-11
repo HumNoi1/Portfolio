@@ -33,17 +33,17 @@ function Hero() {
             </p>
             <ul className={styles.hero_social}>
               <li>
-                <a href="https://github.com/HumNoi1">
+                <a href="https://github.com/HumNoi1" target = "_blank">
                   <FaGithub />
                 </a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/humnoi-1-967310294/">
+                <a href="https://www.linkedin.com/in/humnoi-1-967310294/" target = "_blank">
                   <FaLinkedinIn />
                 </a>
               </li>
               <li>
-                <a href="https://www.facebook.com/profile.php?id=100008084763041">
+                <a href="https://www.facebook.com/profile.php?id=100008084763041" target = "_blank">
                   <FaFacebookF />
                 </a>
               </li>

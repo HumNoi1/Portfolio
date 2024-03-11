@@ -16,13 +16,19 @@ function Navbar() {
       <div className={styles.container}>
         <div className={styles.nav_con}>
           <div className={styles.logo}>
-            <a href="#"> My Port</a>
+            <a href="#"> My Portfolio</a>
           </div>
 
           <ul>
-            <li><a href="#">Skills</a></li>
-            <li><a href="#">Portfolio</a></li>
-            <li><a href="#">Contact</a></li>
+            <div className={styles.button}>
+              <li><a href="#">Skills</a></li>
+            </div>
+            <div className={styles.button}>
+              <li><a href="#">Portfolio</a></li>
+            </div>
+            <div className={styles.button}>
+              <li><a href="#">Contact</a></li>
+            </div>
           </ul>
 
           <div className={styles.button}>
