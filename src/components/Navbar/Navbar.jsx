@@ -20,15 +20,9 @@ function Navbar() {
           </div>
 
           <ul>
-            <div className={styles.button}>
               <li><a href="#">Skills</a></li>
-            </div>
-            <div className={styles.button}>
               <li><a href="#">Portfolio</a></li>
-            </div>
-            <div className={styles.button}>
               <li><a href="#">Contact</a></li>
-            </div>
           </ul>
 
           <div className={styles.button}>
